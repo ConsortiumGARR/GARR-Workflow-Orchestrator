@@ -1,0 +1,17 @@
+{
+   "forms" : {
+      "fields" : {
+         "service_type" : "What service is needed?",
+         "fX_flow_id" : "This service will be identified by f🅰️c🅱️. Enter 🅰️:",
+         "cY_client_id" : "Enter 🅱️:",
+         "och_ids" : "Enter the OCh ID - if this service is carried inside 2 OChs, add the second channel using the ➕ button.",
+         "bandwidths" : "Spectrum Width [MHz] - total bandwidth including guardbands of the Optical Spectrum",
+         "frequencies": "Central Frequency [MHz] of the Optical Transport Channel (OCh)",
+         "optical_path_confirmation": "Please confirm that the calculated path is correct",
+         "optical_path_confirmation_info": "Is the optical path correct?"
+      }
+   },
+   "workflow" : {
+      "create_core_link" : "Create core_link"
+   }
+}
