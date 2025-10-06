@@ -9,26 +9,28 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 [![Type Checking](https://img.shields.io/badge/type%20checking-mypy-blue.svg)](http://mypy-lang.org/)
 
-**Automated orchestration system for GARR optical transport network lifecycle management**
+**Demo copy of the orchestration system for GARR optical transport network**
 
-[Features](#features) •
-[Architecture](#architecture) •
-[Usage](#usage) •
-[Resources](#resources)
+[Features](#-features) •
+[Architecture](#-architecture) •
+[Usage](#-usage) •
+[Resources](#-resources)
 
 </div>
 
 ---
+> [!IMPORTANT]
+> This is a unmantained copy of GARR's Workflow Orchestrator, updated now and then to share it with the Research and Education community. This code only works within the open-source framework [Orchestrator Core](https://workfloworchestrator.org/) as explained [here](https://workfloworchestrator.org/orchestrator-core/architecture/framework/#workflow-orchestrator). If you are new to this framework you can start from the [example-orchestrator](https://github.com/workfloworchestrator/example-orchestrator) and become familiar with the project structure.
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Product Catalog](#product-catalog)
-- [Usage](#usage)
-- [Development](#development)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Architecture](#-architecture)
+- [Product Catalog](#-product-catalog)
+- [Usage](#-usage)
+- [Development](#-development)
+- [License](#-license)
 
 ---
 
