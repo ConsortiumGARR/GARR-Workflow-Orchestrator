@@ -20,7 +20,8 @@
 
 ---
 > [!IMPORTANT]
-> This is a unmantained copy of GARR's Workflow Orchestrator, updated now and then to share it with the Research and Education community. This code only works within the open-source framework [Orchestrator Core](https://workfloworchestrator.org/) as explained [here](https://workfloworchestrator.org/orchestrator-core/architecture/framework/#workflow-orchestrator). If you are new to this framework you can start from the [example-orchestrator](https://github.com/workfloworchestrator/example-orchestrator) and become familiar with the project structure.
+> This is an unmaintained copy of GARR's Workflow Orchestrator, updated occasionally to share with the research and education community. This code works only within the open-source framework [Orchestrator Core](https://workfloworchestrator.org/), as explained [here](https://workfloworchestrator.org/orchestrator-core/architecture/framework/#workflow-orchestrator). If you are new to the framework, start with the [example-orchestrator repository](https://github.com/workfloworchestrator/example-orchestrator) to become familiar with the project structure.
+
 
 ## 📋 Table of Contents
 
